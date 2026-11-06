@@ -83,7 +83,7 @@ catalog:
   '@formatjs/intl-localematcher': 0.9.0
   '@heroicons/react': 2.2.0
   '@hey-api/openapi-ts': 0.98.2
-  '@hono/node-server': 2.1.1
+  '@hono/node-server': 2.1.3
   '@iconify-json/heroicons': 1.2.3
   '@iconify-json/ri': 1.2.10
   '@lexical/code': 0.47.0
@@ -109,7 +109,7 @@ catalog:
   '@storybook/addon-links': 10.6.0
   '@storybook/addon-onboarding': 10.6.0
   '@storybook/addon-themes': 10.6.0
-  '@storybook/addon-vitest': 10.6.0
+  '@storybook/addon-vitest': 10.6.6
   '@storybook/nextjs-vite': 10.6.0
   '@storybook/react': 10.6.0
   '@storybook/react-vite': 10.6.0
@@ -165,7 +165,7 @@ catalog:
   date-fns: 4.1.0
   dayjs: 1.11.23
   decimal.js: 10.6.0
-  dompurify: 3.4.16
+  dompurify: 3.4.17
   echarts: 6.1.0
   echarts-for-react: 3.0.6
   elkjs: 0.12.0
@@ -187,7 +187,7 @@ catalog:
   eslint-plugin-perfectionist: 5.12.1
   eslint-plugin-pnpm: 1.9.1
   eslint-plugin-regexp: 3.3.1
-  eslint-plugin-storybook: 10.6.0
+  eslint-plugin-storybook: 10.6.2
   eslint-plugin-toml: 1.5.0
   eslint-plugin-unicorn: 76.0.0
   eslint-plugin-yml: 3.8.1
@@ -195,9 +195,9 @@ catalog:
   fast-deep-equal: 3.1.3
   foxact: 0.3.12
   fuse.js: 7.5.0
-  happy-dom: 20.14.5
+  happy-dom: 21.0.4
   hast-util-to-jsx-runtime: 2.3.6
-  hono: 4.13.9
+  hono: 4.13.11
   html-entities: 2.6.0
   html-to-image: 1.11.13
   i18next: 26.4.2
@@ -209,9 +209,9 @@ catalog:
   jotai-scope: 0.12.2
   jotai-tanstack-query: 0.11.0
   js-cookie: 3.0.8
-  js-yaml: 5.4.2
+  js-yaml: 5.4.3
   jsonschema: 1.5.0
-  katex: 0.17.0
+  katex: 0.18.2
   knip: 6.38.0
   ky: 2.1.0
   lexical: 0.47.0
@@ -223,7 +223,7 @@ catalog:
   mitt: 3.0.1
   motion: 13.4.4
   negotiator: 1.1.0
-  next: 16.3.6
+  next: 16.4.1
   next-themes: 0.4.6
   nuqs: 2.10.1
   open: 11.0.4
@@ -233,7 +233,7 @@ catalog:
   playwright: 1.63.0
   postcss: 8.5.28
   qrcode.react: 4.2.0
-  qs: 6.16.0
+  qs: 6.16.1
   react: 19.3.0
   react-dom: 19.3.0
   react-easy-crop: 6.2.3
@@ -253,7 +253,7 @@ catalog:
   socket.io-client: 4.8.4
   sortablejs: 1.15.7
   std-semver: 1.0.8
-  storybook: 10.6.0
+  storybook: 10.6.2
   streamdown: 2.6.0
   string-ts: 2.3.1
   svgo: 4.1.0
@@ -261,14 +261,14 @@ catalog:
   tldts: 7.4.16
   typescript: npm:@typescript/typescript6@6.0.2
   uglify-js: 3.19.3
-  undici: 7.30.0
+  undici: 7.30.1
   unist-util-visit: 5.1.0
   use-context-selector: 2.0.0
   uuid: 14.0.2
   vinext: 1.0.0
   vite: npm:@voidzero-dev/vite-plus-core@1.0.0
   vite-plugin-inspect: 12.0.2
-  vite-plus: 1.0.0
+  vite-plus: 1.1.0
   vitest: 5.0.1
   vitest-browser-react: 2.3.0
   vitest-canvas-mock: 1.2.0
